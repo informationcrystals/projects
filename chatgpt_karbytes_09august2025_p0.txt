@@ -8,6 +8,8 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5 which took place between 11:59PM Pacific Standard Time on 08_AUGUST_2025 and 11:59PM Pacific Standard Time on 09_AUGUST_2025. The conversation entails karbytes' first time ever using ChatGPT-5 (which is the successor to ChatGPT-4o). karbytes noticed that only the ChatGPT-5 and ChatGPT-5 Thinking models of ChatGPT are available to karbytes (given that karbytes is currently a ChatGPT Plus subscriber) and that all of the older models are currently unavailable to karbytes. karbytes also noticed that ChatGPT-5 seems to process information more quickly than ChatGPT-4o did (in the form of generating responses more quickly).
 
+Update: karbytes learned that ChatGPT-4o is available as of 09_AUGUST_2025 by going to Settings (in the Desktop web application of ChatGPT) to toggle a switch which shows legacy ChatGPT models alongside the new (and available by default) ChatGPT-5 and ChatGPT-5 Thinking models. The following screenshot image shows what that toggle in the Settings panel looks like: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_48/main/chatgpt_legacy_models_toggle_in_settings_09august2025.png
+
 * * *
 
 karbytes:
