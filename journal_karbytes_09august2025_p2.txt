@@ -8,6 +8,10 @@
 
 The following files have been created and/or modified during the time period whose end points are 1:00AM Pacific Standard Time on 09_AUGUST_2025 and 1:00PM Pacific Standard Time on 09_AUGUST_2025. During that time period, those files have not yet been incorporated into the canon karbytes but are expected to be incorporated into the canon karbytes within 14 days of that time period.
 
+(Note that a list of all batch updates which are made to the canon karbytes (between the finalization of karbytes2025_20 and karbytes2025_21) is available at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_48/main/karbytes_for_life_blog_updates.txt).
+
+* * *
+
 file_0: https://raw.githubusercontent.com/[anoymous_github_account]/[public_repository]/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_48.html
 
 file_1: https://raw.githubusercontent.com/[anoymous_github_account]/[public_repository]/main/chatgpt_karbytes_09august2025_p0.txt
