@@ -28,6 +28,8 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/raw_github_f
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/index.html
 
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_A4.html
+
 https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_24.html
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_25.html
