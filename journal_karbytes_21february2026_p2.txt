@@ -6,4 +6,6 @@
  * license: PUBLIC_DOMAIN
  */
 
-karbytes2025.total_number_of_zip_file() = 163.
+karbytes2025_22.maximum_number_of_zip_file() = 163.
+
+karbytes2026_0.maximum_number_of_zip_file() = karbytes2025_22.maximum_number_of_zip_file() + 31.
