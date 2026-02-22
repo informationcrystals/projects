@@ -1,0 +1,17 @@
+The following Uniform Resource Locators point to temporarily public files which were hosted on a karbytes-managed GitHub repository external to the official karbytes public web hosted file collection host GitHub accounts:
+
+Those files (except for temp.txt) were moved into KARLINA_OBJECT_extension_pack_58 upon open closing the temporal gap between the finalization of karbytes2026_0 and the initialization of karbytes2026_1.
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+* * *
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21february2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21february2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21february2026_p2.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21february2026_p3.txt
