@@ -8,7 +8,7 @@
 
 The following Uniform Resource Locators point to temporarily public files which were hosted on a karbytes-managed GitHub repository external to the official karbytes public web hosted file collection host GitHub accounts:
 
-Those files (except for temp.txt) were moved into KARLINA_OBJECT_extension_pack_58 upon open closing the temporal gap between the finalization of karbytes2026_0 and the initialization of karbytes2026_1.
+Those files (except for temp.txt) were copied into KARLINA_OBJECT_extension_pack_58 upon open closing the temporal gap between the finalization of karbytes2026_0 and the initialization of karbytes2026_1.
 
 * * *
 
