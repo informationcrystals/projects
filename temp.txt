@@ -1,4 +1,42 @@
+/**
+ * file: journal_karbytes_27june2026_p0.txt
+ * type: plain-text
+ * date: 27_JUNE_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+### In the following pseudocode...
+### [anonymous_github_username] -> informationcrystals
+### [public_files_repository] -> projects
+### [N] -> nonnegative integer number of KARLINA_OBJECT_extension_pack
+
+For each Uniform Resource Locator (URL) listed in this file:
+    Change the following string within that URL from:
+        [anonymous_github_username]/[public_files_repository]
+    To:
+        karlinarayberinger/KARLINA_OBJECT_extension_pack_[N]
+    If the URL ends with any one of the following strings:
+        temp.txt 
+        index.html
+        sub-index_page_121.html
+        sub-index_page_122.html
+    Then:
+        assume that file does not exist (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+    Otherwise:
+        assume that file exists (at and after 11:59PM Pacific Standard Time on 31_DECEMBER_2026).
+
+### ...End of pseudocode
+
+* * *
+
 https://raw.githubusercontent.com/informationcrystals/projects/main/temp.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/index.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_121.html
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_page_122.html
 
 * * *
 
@@ -23,4 +61,6 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_gree
 https://raw.githubusercontent.com/informationcrystals/projects/main/the_big_green_thing_26june2026_p5.mp4
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/unlisted_web_page_karbytes_social_media_posts_koep69.html
+
+unlisted_web_page_karbytes_wayback_machine_saves_precision_batches_extension_1.html
 
