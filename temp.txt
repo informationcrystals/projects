@@ -10,11 +10,17 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/clouds_and_b
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/clouds_and_blue_sky_20july2026_p0_[inverted].png
 
+https://raw.githubusercontent.com/informationcrystals/projects/main/half_full_moon_20july2026_p0.jpg
+
 https://raw.githubusercontent.com/informationcrystals/projects/main/invert_image_rgb.py
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21july2026_p0.txt
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21july2026_p1.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/karbytes_selfie_20july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/morning_burrow_view_22july2026.jpg
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_21july2026_p0.mp4
 
