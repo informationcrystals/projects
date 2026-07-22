@@ -30,7 +30,7 @@ video_1_name: karbytes_orb_web_spider_note_22july2026_p0.mp4
 
 video_1_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/karbytes_orb_web_spider_note_22july2026_p0.mp4
 
-video_0_transcription:
+video_1_transcription:
 
 It is approximately 12:55AM Pacific Standard Time on 22_JULY_2026, and I'm standing at the part of the trail where I was talking about there being orb web weaver spiders. I already saw one of them, and I think the other one too. I think they're both still here, but the one that I first encountered on my way back from Ramage Peak area is in the midst of reconstructing its web.
 
