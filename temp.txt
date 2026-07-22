@@ -6,6 +6,12 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karb
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_22july2026_p0.txt
 
+https://raw.githubusercontent.com/informationcrystals/projects/main/clouds_and_blue_sky_20july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/clouds_and_blue_sky_20july2026_p0_[inverted].png
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/invert_image_rgb.py
+
 https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21july2026_p0.txt
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_21july2026_p1.txt
