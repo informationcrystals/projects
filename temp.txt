@@ -10,6 +10,12 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/clouds_and_b
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/clouds_and_blue_sky_20july2026_p0_[inverted].png
 
+https://raw.githubusercontent.com/informationcrystals/projects/main/evening_burrow_view_23july2026_p0.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/evening_burrow_view_23july2026_p1.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/evening_burrow_view_23july2026_p2.jpg
+
 https://raw.githubusercontent.com/informationcrystals/projects/main/half_full_moon_20july2026_p0.jpg
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/invert_image_rgb.py
