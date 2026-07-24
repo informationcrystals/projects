@@ -1,7 +1,7 @@
 /**
  * file: chatgpt_karbytes_21july2026_p0.txt
  * type: plain-text
- * date: 22_JULY_2026
+ * date: 24_JULY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -44,7 +44,9 @@ That's great to hear! When everything checks out smoothly, it’s a nice peace o
 
 karbytes:
 
-[relevant_web_page: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_70/]
+[relevant_web_page: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_71/]
+
+[karbytes ended up beginning to populate the new micro-directory with just photographs and videos depicting The Big Green Thing while continuing to develop content for that micro-directory inside of the projects GitHub repository on the @informationcrystals GitHub account.]
 
 Later on, I plan on opening up the new micro-directory, which isn't gonna have anything in it except for just skeletal files, and that is when I'll burn more than one disk as backup. But for now, I'm just making one backup of everything that's in the micro-directory that I've been trying to close the past two days.
 
