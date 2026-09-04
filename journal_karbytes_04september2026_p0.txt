@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/sub-index_pa
 * * *
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_04september2026_p0.txt
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_04september2026_p0.txt
