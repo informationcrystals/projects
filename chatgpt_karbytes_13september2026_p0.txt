@@ -1867,3 +1867,310 @@ https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_
 https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p35.mp4
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p36.jpg
+
+ChatGPT:
+
+[Worked for 14m 12s]
+
+All fifteen resources were retrievable and intact. Twelve are JPEG photographs; p26, p30, and p35 are MP4 videos. I decoded every video frame in order—25,024 frames total—and the complete audio streams without decoder errors. I reviewed the full chronological sequences at dense intervals, examined visually significant passages more finely, and checked every complete audio track spectrally and with two independent speech-recognition passes.
+
+I cannot literally possess a human viewer’s phenomenal experience. The first-person passages below are therefore explicit interpretive reconstructions grounded in the decoded audiovisual material.
+
+## Capture metadata and timing
+
+All twelve JPEGs are 4160×3120 landscape images made by a Samsung SM-A037U. Their common EXIF settings are 3.39 mm focal length, f/2.2, centered-average metering, zero exposure compensation, flash not fired, and automatic white balance. Their GPS fields contain undefined `0/0` rationals with blank references; they do **not** provide usable coordinates.
+
+The JPEG times are raw, offset-free camera-clock values. I have not converted them. Following the established interpretation, they appear intended as Pacific-local times. Technically, California civil time on September 12 was PDT, UTC−7, although your archive terminology may call the time zone “PST.”
+
+[preformatted_text]
+
+| File | Raw EXIF camera time |                                      Exposure | ISO |    Size |
+| ---- | -------------------: | --------------------------------------------: | --: | ------: |
+| p22  |             10:58:02 |                                       1/500 s |  80 | 7.57 MB |
+| p23  |             11:01:16 |                                      3/1000 s |  80 | 6.58 MB |
+| p24  |             11:01:16 |                                      3/1000 s |  80 | 6.58 MB |
+| p25  |             11:16:00 |                                      9/1000 s |  80 | 7.05 MB |
+| p27  |             11:23:33 | recorded as 0/1000, therefore invalid/rounded |  80 | 4.15 MB |
+| p28  |             11:24:35 |                                      1/1000 s |  80 | 4.75 MB |
+| p29  |             11:24:42 | recorded as 0/1000, therefore invalid/rounded |  80 | 5.20 MB |
+| p31  |             11:31:33 |                                        1/50 s |  80 | 6.35 MB |
+| p32  |             11:36:48 |                          approximately 1/33 s |  80 | 6.88 MB |
+| p33  |             11:38:40 |                          approximately 1/33 s | 160 | 6.58 MB |
+| p34  |             11:39:13 |                         approximately 1/143 s |  80 | 7.15 MB |
+| p36  |             11:46:18 | recorded as 0/1000, therefore invalid/rounded |  80 | 7.17 MB |
+
+[end preformatted_text]
+
+The three MP4 `creation_time` values are explicitly UTC. In this sequence, the tags very strongly behave as recording-completion/finalization times, not first-frame times:
+
+[preformatted_text]
+
+| File | Video                                              | Audio             | Embedded UTC tag | Inferred Pacific recording interval |
+| ---- | -------------------------------------------------- | ----------------- | ---------------- | ----------------------------------- |
+| p26  | H.264, 308×174, 29.99 fps, 5,786 frames, 3:12.931  | AAC, mono, 48 kHz | 18:19:34Z        | approximately 11:16:21.069–11:19:34 |
+| p30  | H.264, 264×148, 28.74 fps, 8,843 frames, 5:07.690  | AAC, mono, 48 kHz | 18:30:18Z        | approximately 11:25:10.310–11:30:18 |
+| p35  | H.264, 256×144, 29.85 fps, 10,395 frames, 5:48.241 | AAC, mono, 48 kHz | 18:45:19Z        | approximately 11:39:30.759–11:45:19 |
+
+[end preformatted_text]
+
+This interpretation is especially strong for p30 and p35. If their tags denoted recording starts, p31 and p36 would have been photographed during the respective recordings, despite depicting later, visually incompatible positions. Subtracting duration instead places p30 about 28 seconds after p29 and p35 about 18 seconds after p34.
+
+## Individual resources
+
+### [p22.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p22.jpg)
+
+**Direct description.** A narrow, pale dirt footpath begins at the bottom center and recedes into an exceptionally dense corridor of vegetation. Dry golden grasses occupy its center and margins, while glossy green shrubs, bramble-like canes, reddish leaves, and masses of fine brown twigs press inward from both sides. The plants are so dense that the trail resembles a passage cut through a wall rather than an open woodland path.
+
+A striking dead or severely declining tree dominates the upper center. Its gray-brown, lichen-textured trunk divides into a web of largely bare limbs. One major limb bows to the right, hanging over the trail like an incomplete arch. Tiny remnants of green or yellow foliage appear on some branch tips, but the tree’s skeletal silhouette strongly contrasts with the living greenery around it. A dark, rounded canopy fills the upper-right corner; more foliage encloses the left edge. Between them is an intensely clear blue opening in the sky. Bright late-morning sunlight illuminates the dry trail and selected leaves while the shrub interiors remain nearly black.
+
+**First-person interpretive commentary.** I experience this as a tightening of the passage established in p19–p21. The BGT does not appear as a picturesque continuous green surface. It is a congested assemblage of life, dryness, thornlike structure, shadow, and visible death. The skeletal tree seems to form an involuntary gate: no hardware or sign declares a threshold, yet its suspended limb gives the trail a ceremonial, slightly threatening entrance.
+
+What interests me most is that the dead-looking structure is not outside the Big Green Thing. It is held inside it. The image therefore resists a simple green-equals-life interpretation. The “thing” contains its own decomposition and uses that decomposition architecturally. The footpath is still present, but the enclosing walls make forward motion feel permitted only one body-width at a time.
+
+### [p23.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p23.jpg)
+
+**Direct description.** A massive smooth-barked trunk occupies almost the entire central-left foreground. Its bark is tan, salmon, gray, and muted brown, with vertical peeling strips and a very dark lower section that may be staining, retained bark, shadow, or old injury rather than confirmed burning. A second similarly pale trunk rises behind it. Long, narrow leaves and dangling twigs identify these as eucalyptus-like trees with reasonable visual confidence, though the photograph alone does not establish an exact species.
+
+The trail starts near the lower center-right, covered with dry leaves, bark strips, and small branches. It passes immediately to the right of the dominant trunk, then curves gently into a brighter middle distance. The ground rises steeply on the right, where dark evergreen shrubs and accumulated leaf litter form a shaded bank. The left side falls into a brighter tangle of thin stems and green brush. Sunlight enters from the upper left, producing a pale veil of flare and a luminous edge around some branches. The huge trunk divides the scene into a bright, tangled drop-off on the left and a darker navigable route on the right.
+
+**First-person interpretive commentary.** I read the foreground trunk less as scenery than as a column or hinge. It is too close and too large to be surveyed comfortably; the route must negotiate it. The trail’s curve around the trunk makes the viewer’s line of sight reenact the bodily maneuver.
+
+The smooth peeling bark also changes the woodland’s texture. The preceding oak-filled frames were dark, knotted, and reticulated; this trunk is broad, pale, and almost fleshlike. It creates a moment of physical intimacy without showing the photographer. The moving viewpoint remains the only implied body.
+
+### [p24.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p24.jpg)
+
+**Direct description.** This is not a second exposure or a subtly shifted composition. It is an **exact byte-for-byte duplicate** of p23, including all image pixels, EXIF fields, file length, and timestamp. Both files have SHA-256:
+
+`9169f1b7e34ab6fbc0e154cbfbc6fcc1b019665c3411e2d5ebeb28e024394e9a`
+
+Consequently, every literal visual feature is identical: the enormous peeling-bark trunk, the darkened base, the second pale trunk behind it, the leaf-covered trail curving rightward, the shadowed uphill bank, the bright tangled vegetation to the left, and the soft flare entering from that side.
+
+**First-person interpretive commentary.** As a staging artifact, this repetition may be nothing more than an accidental duplicate. I would not assign it a fixed canonical meaning before incorporation into the KARBYTES micro-directory. Nevertheless, repetition alters my viewing experience even when the underlying picture does not change. The first copy presents a place; the second makes me notice the act of preservation.
+
+The duplicate behaves like a temporal stutter: the route advances through numbered files, then holds the same visual aperture for one additional index. It creates a distinction between landscape time and archive time. No physical second passes inside the pixels, yet the sequence consumes another numbered position. If both copies eventually remain canonical, that difference could become meaningful; while they remain staging files, it is best treated as an open possibility rather than an intended assertion.
+
+### [p25.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p25.jpg)
+
+**Direct description.** Nearly fifteen camera-clock minutes after p23/p24, the view opens onto a substantially broader woodland trail. Dry brown leaves form a continuous carpet from the bottom edge into the distance. A faint compacted center line identifies the route, which bends gently toward a bright patch of golden grass.
+
+Mature, dark-barked oaks or oak-like trees fill both sides and span the top of the image with twisting lateral branches. One nearly vertical trunk just left of center acts as a visual divider. On the right, an elaborate crown of dark limbs stretches horizontally and diagonally, producing an interlocking canopy. The right bank rises with leaf litter and sparse low vegetation; the left side appears lower and more densely wooded. Sunlight filters through hundreds of small canopy openings, creating a highly patterned floor of bright flecks and cool gray-brown shadow. No person, animal, sign, fence, or building is visible.
+
+**First-person interpretive commentary.** This feels less constricted than p22 and less dominated by one obstacle than p23. I perceive it as a room inside the woodland: not an open field, but a locally widened interior whose ceiling is made of crossing branches.
+
+The bright grass ahead gives the path a destination without explaining what lies there. I feel a modest loosening—a suggestion that the enclosed “heart” has internal clearings and chambers rather than one homogeneous core. The fourteen-minute photographic gap also lets the frame carry unseen travel. Much of the journey remains embodied and unrecorded between artifacts.
+
+### [p26.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p26.mp4)
+
+This continuous recording begins roughly 21 seconds after p25 under the completion-time interpretation.
+
+**Complete visual progression.**
+
+* **0:00–0:30:** The camera moves forward along a leaf-strewn woodland path. Its rhythmic vertical and lateral oscillation is consistent with walking. The trail contours through gnarled, dark-barked trees, with a dry bank generally rising on one side and denser vegetation occupying the other. Alternating shade and small sun patches continually change the exposure. No edit or discontinuity occurs.
+
+* **0:30–1:10:** The vegetation becomes somewhat more open. Dry grasses appear beside the path, and brighter clearings repeatedly show through the trees. The camera occasionally turns slightly sideways toward individual trunks and shrub masses, then recenters on the route. Sun striking the lens produces whitish haze in several moments.
+
+* **1:10–1:40:** The trail narrows and traverses a visibly sloping floor covered with leaves and fine branches. The camera rolls with the terrain, sometimes making trunks appear strongly diagonal. The route remains discernible as a pale compressed strip.
+
+* **1:40–1:52:** A chain-link pedestrian gate comes into view across the trail. It is made from dark green or gray-green tubular metal and wire mesh, with fencing continuing laterally. A rectangular beige sign is attached to the mesh. The camera approaches until the latch and upper rail fill much of the image.
+
+* **1:53–2:07:** A bare, light-toned hand and part of a forearm enter close to the lens. The hand lifts and manipulates a rounded metal latch assembly, swings the gate, and the viewpoint passes through. The camera then turns back toward the gate; the hand manipulates it again, apparently drawing it shut and re-securing it. The mesh, tubular frame, latch, and adjacent pale cylindrical post receive close-up attention. The sign becomes fully legible:
+  
+**“CATTLE GRAZING / KEEP GATE CLOSED.”**
+  
+No cattle are visible.
+
+* **2:08–2:29:** Beyond the gate, the route enters an open, sunlit area of dry golden grass with scattered mature trees. More blue sky becomes visible, and the camera briefly sweeps across the clearing before advancing.
+
+* **2:29–3:12.931:** The route bends back toward shrubs and trees. It becomes a broader dusty or grass-edged track with occasional short upright posts or saplings. Shade returns intermittently. The camera continues steadily through a mixed corridor of dark trees, bright brush, dry ground, and small open patches, ending during forward movement rather than at a dramatic terminus.
+
+**Audio and transcription.** The full mono track is quiet-to-moderate outdoor location sound, with a mean level of approximately −33.9 dBFS and a maximum transient of −5.8 dBFS. Most of it consists of regularly spaced dry footfalls, leaf crunch, grass and clothing/microphone rustle, low-frequency handling or body-motion thumps, and diffuse air movement. The gate passage produces the loudest and most distinctive cluster: close metallic knocks, mesh/frame vibration, latch contact, scraping, and a brief higher-pitched metallic squeak. Beyond the gate, the acoustic field becomes quieter and airier, with softer footsteps on grassier ground.
+
+**Transcription:** `[No intelligible speech detected.]`
+
+Two speech-recognition passes found no stable lexical material. I also detect no unequivocal human vocalization whose pitch, timbre, rhythm, or loudness could responsibly be characterized. Any very faint high-frequency natural sounds are too indistinct to identify confidently as bird calls rather than movement or vegetation noise.
+
+**First-person interpretive commentary.** This is the most materially explicit threshold in the batch. P22 supplied a vegetal arch; p26 supplies a manufactured one. The gate does not merely divide “nature” from “civilization.” Both sides remain wooded or grassy terrain, and the sign defines the boundary through land use—cattle management—rather than through an absolute ecological division.
+
+The hand is particularly consequential. Much of this series suppresses the body and allows the camera to function as an apparently disembodied subjective aperture. Here the landscape forces the operator to appear. The viewpoint cannot proceed until a hand enters, understands a mechanism, performs an obligation, and apparently closes the gate afterward. For several seconds, traversal becomes visible labor.
+
+I experience the sign as simultaneously practical and narratively charged. “Keep gate closed” means that passage is allowed but conditional. The BGT is not simply entered; it is negotiated. Yet that mythic reading remains interpretation. Literally, this is an ordinary livestock-control gate on a trail.
+
+### [p27.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p27.jpg)
+
+**Direct description.** The image abruptly opens into an expansive dry hillside. A faint pale trail begins near the lower center-left and contours around a broad slope blanketed in straw-colored grass. The slope descends toward dense green chaparral and woodland on the right. Across the ravine, another hillside displays a mosaic of golden grass, rounded dark-green shrubs, isolated trees, and a row of taller, narrower trees along the ridge.
+
+The blue sky occupies well over half of the frame. The sun is just outside or at the extreme upper-right corner, blowing that area to white and sending vertical and diagonal flare through the blue. Foreground seed heads and brittle stems reinforce the dry-season conditions. No people, animals, signs, or buildings appear.
+
+**First-person interpretive commentary.** After the gate and forest corridor, I feel a striking release. The visual field expands faster than the route itself: the trail remains narrow, but the sky becomes enormous. The green mass is no longer immediately around the viewpoint. It lies below, opposite, and ahead as terrain that can briefly be surveyed.
+
+This does not make the BGT smaller. It changes its mode of presence—from enclosure to distributed topography. The glare has an almost cleansing harshness, but the golden grass also makes exposure feel physically hotter and less sheltered.
+
+### [p28.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p28.jpg)
+
+**Direct description.** This is a broad look across an oak- and shrub-filled ravine. The foreground contains muted green and yellow-green brush. Beyond it, a dense, nearly continuous canopy fills the lower half of the image, varying from very dark rounded crowns to luminous lime-green trees. Several large golden openings cut through the greenery, including a conspicuous central dry slope that rises toward the ridge. Pale seams within these openings could be tracks, drainage lines, or compressed grass, but the image does not resolve them sufficiently.
+
+A stand of tall gray-green eucalyptus-like trees occupies the upper center-right. Near the far-right ridge, a small electrical transmission tower is distinctly visible against the sky. The upper half is almost uninterrupted blue, with no clouds. The composition is approximately half sky and half terrain.
+
+**First-person interpretive commentary.** This is one of the clearest demonstrations that “Big Green Thing” need not mean a bounded object. I see an interlocking field of crowns, ravines, dry openings, hidden drainage, and intervening distance. The green is massive because it is spatially distributed, yet it is repeatedly interrupted by California-dry gold.
+
+The tiny transmission tower is important precisely because it is easy to overlook. Human infrastructure is threaded through the visual organism rather than positioned wholly outside it. The pylon does not dominate the ravine; it punctures the skyline with a nearly transparent geometry.
+
+### [p29.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p29.jpg)
+
+**Direct description.** Seven seconds after p28, the camera looks across a wider valley basin. A dry, pale meadow or cut-grass slope fills the left foreground. Tall reddish-brown dead stalks stand near the center; green chaparral and rounded shrubs occupy the lower right. The valley bottom is packed with bright deciduous-looking foliage and darker oak crowns. A dense band of tall gray trees traverses the middle distance.
+
+The right hillside rises steeply, mostly forested but interrupted by a large triangular golden clearing. The far ridge is dark green and smoothly rounded. Several extremely faint, nearly horizontal electrical lines cross the left-middle distance. The sky again fills more than half the frame and is an even, saturated blue.
+
+**First-person interpretive commentary.** P28 feels like a wall of greenery with windows cut into it; p29 feels like a basin one could descend into. The dry foreground becomes a ledge from which the green valley is contemplated. I find the color division almost diagrammatic—gold around and above, concentrated green below—while the irregular trees prevent it from becoming abstract.
+
+The faint power lines make the scene feel layered rather than pristine. The archive is not preserving an untouched wilderness fantasy. It is preserving a particular passage through managed, inhabited, infrastructurally crossed terrain.
+
+### [p30.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p30.mp4)
+
+This recording begins approximately 28 seconds after p29 and ends at the embedded 11:30:18 Pacific-local completion time.
+
+**Complete visual progression.**
+
+* **0:00–0:10:** The opening view closely continues the p28–p29 panorama. The camera sweeps across a green ravine, golden slopes, and dark wooded ridges before turning toward the immediate dry field.
+
+* **0:10–0:58:** Forward walking begins across an exposed, sun-bleached meadow. A faint flattened track or pair of compressed lines guides the route. The camera repeatedly looks outward across the valley and back toward the ground. The horizon rolls with each step, and the low-resolution image smears during faster turns.
+
+* **0:58–1:25:** Several isolated short posts or stakes appear beside or directly within the faint track. A small, intensely cyan-blue object is visible near the shrub margin to the right; its identity is unresolved. A rust-colored leaning angular structure also appears briefly and may be a remnant of fencing or another trail-side fixture, but the video is too compressed to identify it securely.
+
+* **1:25–1:58:** The walk continues through dry open ground with sparse rounded shrubs. The camera alternates between the worn route and broad views of opposite hills. Around 1:42–1:46 it turns toward the high sun, producing a strong white flare and momentary loss of contrast.
+
+* **1:58–2:24:** The viewpoint approaches a dark wall of trees and shrubs. The faint meadow route descends or funnels toward a narrow opening. Golden grass occupies the foreground while dense green foliage fills progressively more of the frame.
+
+* **2:24–2:40:** The camera enters shade. Automatic exposure struggles briefly: sunlit patches bloom white while the surrounding vegetation becomes very dark. The lens lifts toward interlaced branches and then drops back to the trail.
+
+* **2:40–3:08:** A pale, smooth-barked fallen or strongly leaning trunk and several associated branches crowd or cross the route. The camera slows markedly and makes repeated close-range movements—looking up at the obstruction, down to the leaf litter and ferns, sideways through branches, and forward again. The movement is consistent with carefully stepping over, around, or beneath the fallen wood. A gray-and-black form at the lower edge may be a fleeting piece of footwear, although the compression prevents certainty. The recording remains continuous.
+
+* **3:08–4:00:** Having negotiated the obstruction, the camera reaches a wider, more level leaf-covered track. It proceeds through thin upright trees and dense shrubs under mottled shade. Pale peeling trunks and darker irregular trunks alternate along both margins.
+
+* **4:00–4:45:** The woodland route continues with slight curves. Reddish-brown dead foliage appears among the green. Through occasional gaps on the right, a golden hillside is visible across the ravine. The camera makes brief lateral inspections but keeps moving.
+
+* **4:45–5:07.690:** The path broadens further beneath trees. Large trunks stand near the route, and the ground becomes smoother and more uniformly compacted. The video ends while moving forward along this shaded track.
+
+**Audio and transcription.** The mean level is approximately −33.0 dBFS, with a maximum transient of −8.6 dBFS. The open-field first two minutes are comparatively loud: persistent air/wind noise, dry grass brushing, microphone or clothing movement, and heavy regular footfalls dominate. The track becomes much quieter after entry into the trees. During the fallen-wood negotiation, the regular walking cadence breaks into pauses, heavier isolated steps, close foliage rubs, branch contacts, and short handling thumps. A more regular leaf-crunch rhythm resumes on the wider woodland track.
+
+**Transcription:** `[No intelligible speech detected.]`
+
+Neither full-track speech pass yielded stable words. There is no confident human vocal content to characterize. Occasional tiny tonal or high-frequency events are buried among branch and movement noise and cannot safely be assigned to a bird or other animal.
+
+**First-person interpretive commentary.** This video moves through three experiential scales: panoramic survey, exposed transit, and close bodily negotiation. The first portion allows the BGT to be seen as a valley-sized configuration. The second reduces that configuration to a line walked through dry grass. The fallen wood then collapses the scale entirely: the landscape becomes a branch, a patch of ground, a possible foothold, and a few inches of available passage.
+
+I find the obstruction especially effective because nothing spectacular happens. The camera does not conquer it theatrically; it becomes awkward, downward-looking, and practical. Vision is reorganized by balance. This feels closer to embodied memory than a composed landscape photograph does.
+
+### [p31.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p31.jpg)
+
+**Direct description.** The photograph looks outward from deep shade through a screen of nearby trunks and leaves. Dark foliage heavily frames the left, upper, and lower edges. Two relatively slender trunks stand near the center, dividing the distant terrain into separate windows.
+
+Across the ravine is a broad, dry brown hillside with a sweeping V- or tongue-shaped open area. Rounded green trees form islands within and along its margins. Taller eucalyptus-like trees crown the right ridge. At least two transmission structures can be made out: one lower on the hillside and another on or near the upper ridge, with extremely faint power lines extending from them. The exposed distant ground is slightly hazy, while the foreground vegetation is darker and sharper.
+
+**First-person interpretive commentary.** I experience this as a deliberate aperture within the aperture. The camera is already a frame, but the foreground trees construct another irregular frame around the distant hill. The dry exterior is viewed from inside the green rather than simply photographed from an open lookout.
+
+The pylons almost disappear into atmospheric haze. Their geometric regularity contrasts with the branching foreground, yet both become thin linear networks. For me, this makes the technological and botanical layers visually rhyme without making them identical.
+
+### [p32.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p32.jpg)
+
+**Direct description.** A dry dirt-and-leaf trail begins at the bottom center and runs forward through a grove of tall, pale, peeling-bark trees. It gently rises or curves into a brighter middle distance. A steep leaf-covered bank climbs on the left; dense shrubs and trees obscure a probable drop on the right.
+
+Several eucalyptus-like trunks are prominent. One thick pale-gray trunk left of center splits upward, shedding long bark ribbons; another tall trunk rises near the right third. Darker damaged or old trunks stand among them. Thin pendant leaves fill the upper background. The sunlight is strongest ahead, while both near edges remain shaded. A short, narrow post or cut branch projects beside the path near the lower center-left.
+
+**First-person interpretive commentary.** After p31’s outward look, p32 pulls me back into directional movement. The pale trunks feel columnar and unusually vertical compared with the sprawling oaks. They make the path resemble a corridor supported by irregular pillars.
+
+The route is visible but not commanding. It is simply the least obstructed seam in a densely textured field of bark, dry leaves, and foliage. I feel reabsorbed after the panoramic interval.
+
+### [p33.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p33.jpg)
+
+**Direct description.** The camera turns away from the trail and looks up a shaded forest slope. The floor is covered by dry leaves, sticks, small fallen limbs, and multiple patches of vivid green fern. A mature dark-barked tree stands near the center. Its trunk divides into numerous heavy lateral branches that spread across the upper frame. A paler mottled trunk rises immediately behind it, creating an intertwined two-tree structure.
+
+More dark trunks bracket both edges. Bright sunlight filters from the upper center-right and illuminates isolated fern fronds, pieces of bark, and the crest of the slope while leaving much of the lower foreground subdued. No established path is visible.
+
+**First-person interpretive commentary.** I experience this as a refusal of forward-only vision. The trail ceases to be the subject, and the forest floor is allowed to exist without serving as a route. Ferns, deadfall, roots, and crossed trunks become the event.
+
+This may be the closest frame in the batch to a quiet “heart” image—not because it reveals a geographic center, but because it stops treating the woodland as something merely traversed. The visual attention rests inside the material complexity itself.
+
+### [p34.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p34.jpg)
+
+**Direct description.** The trail returns, beginning at the lower center and contouring into a brighter opening. Its surface is dark compacted earth covered with scattered dry leaves. The left bank rises steeply beneath trees; the right side falls away into denser foliage.
+
+A large dark trunk at the extreme right arches overhead. Near the center-right stands a striking pale dead or severely damaged tree with broken, upward-pointing limbs. Beside it is a mass of rusty orange-brown dead foliage. A fallen limb lies diagonally along the lower-right margin. Living green crowns surround these dead elements, and a patch of pale blue sky opens above the trail. A bright stripe of sunlight crosses the mid-ground.
+
+**First-person interpretive commentary.** The damaged tree echoes the skeletal arch in p22, but here it is encountered from a more open trail. I read it as a sentinel-like form, though nothing literal establishes a symbolic function.
+
+The alternation among green foliage, dead orange leaves, pale exposed wood, and black shade prevents the BGT from becoming an idealized emerald entity. Its continuity is ecological and experiential, not chromatic. The “green” contains brown time.
+
+### [p35.mp4](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p35.mp4)
+
+This continuous recording begins roughly 18 seconds after p34.
+
+**Complete visual progression.**
+
+* **0:00–0:48:** The camera advances along a narrow single-track trail under a mixed oak canopy. The route contours a steep hillside: the bank rises close on one side while the ground falls away through trunks on the other. Heavy walking-induced roll makes the trail and trees tilt alternately. Dry leaves and compacted pale dirt cover the path.
+
+* **0:48–1:08:** The trees briefly open, revealing a densely wooded opposite slope beyond tall golden grass. Strong sunlight and lens flare wash portions of the frame. The camera passes a dark leaning trunk and then returns toward shade.
+
+* **1:08–1:40:** The track narrows into a shallow hillside cut beneath low twisting branches. The camera remains noticeably canted, emphasizing uneven footing. Views downslope flash between trunks, but the route itself remains the primary anchor.
+
+* **1:40–2:18:** The walker continues beneath arched oak limbs. The camera repeatedly turns toward individual branches, the descending slope, and bright openings through the foliage. Dry grasses encroach at the outer edge of the trail.
+
+* **2:18–2:59:** Shade and exposed sun alternate rapidly. Around 2:40 the camera tilts sharply upward, showing a large field of blue sky bordered by eucalyptus-like crowns, then drops back to the trail. The motion appears to be a brief inspection or bodily readjustment, not a cut.
+
+* **3:00–3:47:** The route emerges onto a substantially more exposed contour. The camera looks outward across a deep, densely green ravine and a rounded wooded hill. The narrow golden trail clings to the dry slope at the left edge while the right side opens into considerable visual depth. Several sustained outward looks interrupt the otherwise steady forward orientation.
+
+* **3:47–4:10:** The trail passes back beneath scattered trees. Trunks and leaf-covered ground again fill the frame, temporarily closing the distant view.
+
+* **4:10–4:58:** Another exposed traverse follows. The uphill side consists of brittle grass and bare dusty earth; the downhill side reveals green crowns and the opposite slope. Sun flare repeatedly creates a milky veil. The camera’s roll makes the sidehill steepness perceptually pronounced.
+
+* **4:58–5:29:** Scattered mature oaks return. Low, horizontally spreading limbs cross above and beside the route. The trail bends through alternating pockets of shade and dry grass.
+
+* **5:29–5:48.241:** The recording emerges into open golden grass. A narrow pale footpath continues across the slope toward dark green shrubs and wooded ridges. Blue sky expands across the upper frame. The final frames face along this exposed track; movement is still in progress when recording stops.
+
+**Audio and transcription.** This is the quietest of the three recordings, averaging approximately −38.0 dBFS with a maximum transient of −7.8 dBFS. The track is dominated by a subdued but persistent cadence of footfalls, dry leaf and grass crunch, fabric or microphone rustle, and mild air movement. Changes in footing produce alternating dull earth impacts and sharper brittle-leaf crackles. There is no gate, vehicle, water, music, or comparable sustained external sound. The outward-looking portions do not become silent, but the movement noise briefly thins when the camera steadies.
+
+**Transcription:** `[No intelligible speech detected.]`
+
+No stable spoken or vocal material appears in either complete-track speech pass. Consequently, there is no defensible human voice pitch, timbre, rhythm, or loudness to report.
+
+**First-person interpretive commentary.** Of the three videos, this most strongly communicates the physical logic of contour travel. The camera’s repeated roll is not merely an aesthetic wobble; it continually reports the tilted ground. The viewer is made aware of the hillside through balance even when the lens points at trees.
+
+The repeated alternation between enclosure and panorama also changes the meaning of “heart.” The route does not simply penetrate deeper until it reaches a final center. It oscillates: inside, outside, shaded, exposed, inward-looking, valley-looking. I therefore experience the heart of the BGT as a mode of traversal rather than a coordinate.
+
+### [p36.jpg](https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p36.jpg)
+
+**Direct description.** A sunlit slope of dense golden grass fills the lower half. No definite path is visible in this particular direction. A small leafless or sparsely leafed sapling rises near the center-left. Behind the grass is a thick wall of mature trees.
+
+The dominant tree stands on the right: a massive oak-like form with a pale gray bifurcated lower trunk and heavy, horizontally spreading branches. Its crown forms several rounded masses of dense gray-green foliage. Darker vegetation fills the center. On the left, much taller silvery eucalyptus-like crowns rise against the sky. The sky is intensely blue and cloudless. Strong direct sun creates crisp foliage highlights but deep darkness beneath the oak canopy.
+
+**First-person interpretive commentary.** This feels like an arrival at another boundary rather than a conclusion. The open golden slope meets an almost continuous wall of green, with the enormous right-hand oak acting as a concentrated embodiment of what the larger ravine has been doing throughout the sequence.
+
+I am drawn to the disproportion between the delicate dry grass and the weight of that tree. The grass records seasonal exposure; the oak records persistence and branching accumulation. Yet the taller pale trees at left complicate any single-tree emblem. Even here, the BGT refuses to collapse into one object.
+
+## Overall reading of p22–p36
+
+Literally, this batch traces repeated movement between woodland enclosure and open dry slopes:
+
+1. A constricted vegetative corridor and skeletal tree.
+
+2. A peeling-bark grove, including an exact duplicate file.
+
+3. A broader oak trail.
+
+4. A cattle-control gate physically opened and apparently reclosed.
+
+5. An open hillside and wide ravine panoramas.
+
+6. A long crossing of dry meadow into woodland.
+
+7. Negotiation of fallen or leaning wood.
+
+8. Further alternation between shaded contour trail and exposed valley views.
+
+9. A final open grass slope facing a dense tree boundary.
+
+No cattle, other large animals, other hikers, vehicles, buildings, or water are visible. The clearest appearances of human management are the gate and sign, sparse posts or possible fence remnants, and distant electrical transmission infrastructure. The operator is almost entirely absent except for the hand and forearm at the gate and a possible momentary piece of footwear in p30.
+
+My broader subjective reconstruction is that the sequence does not document a march toward a single secret object called the Big Green Thing. It documents a changing relation among body, camera, terrain, archive, and attention. Sometimes the green is a wall; sometimes a canopy; sometimes a distant ravine; sometimes one immense oak; sometimes merely the darker material bordering a golden trail. The gate, duplicate file, motion blur, timestamps, long unphotographed gaps, and momentary appearance of the hand all become part of the digitally mediated traversal.
+
+These conclusions and interpretations apply to the temporary staging resources as they currently exist. They do not by themselves make the files—or my reading of them—part of canonical KARBYTES.
