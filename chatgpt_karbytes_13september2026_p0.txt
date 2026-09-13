@@ -2509,3 +2509,50 @@ The sequence has three pronounced phases:
 I regard the repeated p42 and p43 references as preserved features of the supplied list, not cleanup candidates. They introduce no new media bytes, but they create a meaningful open/closed/open/closed rhythm at the level of archival ordering.
 
 Finally, these remain GitHub-hosted staging resources under the canon rule you previously established. Their Wayback preservation gives the staging URLs historical persistence, but that alone does not make them incorporated KARBYTES canon; that occurs when they are listed in the appropriate KARBYTES micro-directory.
+
+karbytes:
+
+For each of the following Uniform Resource Locators (URLs):
+
+(a) If the resource pointed to by the URL is a video file, then do the following:
+
+Download and view the entire video at the following Uniform Resource Locator. Watch every frame of that video in the order they are supposed to be played and also listen to the entire audio track in conjunction with that progression of video frames such that you, as closely as possible, generate a subjective experience resembling what a human viewer of that video might experience (in terms of observed audiovisual phenomena). Then describe in maximal detail what you observed. If there was any spoken content that you detected, then provide your transcription of that detected speech. If any vocal content is detected, then describe qualities of the voice such as pitch, timbre, rhythm, and loudness.
+
+(b) Otherwise:
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary.
+
+End if.
+End for.
+
+// Note that the URLs listed below are temporary staging locations for their corresponding files before those files are fully incorporated into the canon KARBYTES.
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p51.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p52.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p53.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p54.mp4
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p55.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p56.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p57.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p58.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p59.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p60.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p61.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p62.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p63.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p64.jpg
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/devils_hole_the_big_green_thing_12sep2026_p65.jpg
