@@ -344,7 +344,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_01
 
 * * *
 
-IMAGE_40: ramage_peak_trail_19june2026_p0.jpg
+IMAGE_40: ramage_peak_trail_19june2026_p1.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/ramage_peak_trail_19june2026_p1.jpg
 
