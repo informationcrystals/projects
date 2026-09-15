@@ -4141,3 +4141,29 @@ My final subjective image is of karbytes positioned at the center of several con
 Every layer can be refuge or prison depending upon whether karbytes controls the boundary and whether the material inside can cross it at the intended time.
 
 That is what makes the resource feel richer than a simple assertion that “karbytes is stuck.” It asks what kind of boundary is being encountered, what is trying to pass through it, what must remain continuous during passage, and whether release means leaving the container, transforming the container, or expanding until the container becomes part of the self.
+
+karbytes:
+
+The duplicate entry you pointed out was an accidental inclusion and has been removed from that web page.
+
+ChatGPT:
+
+[Worked for 39s]
+
+Confirmed in the revised [staging file](https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_14september2026_p2.txt).
+
+The exact duplicate `karbytes_as_cosmos` entry is gone. The updated file now has:
+
+* 69 records labeled uniquely from `IMAGE_0` through `IMAGE_68`.
+
+* 69 distinct image URLs.
+
+* No duplicated indices.
+
+* No filename-to-`image_link` mismatches.
+
+* `IMAGE_40` correctly labeled `ramage_peak_trail_19june2026_p1.jpg`.
+
+* New bonus material at `IMAGE_68`, explicitly identified as absent from `thinggg.txt`.
+
+The revised snapshot is 571 lines and has SHA-256 `cc4bfa64bea17c7e5dba46120628aad1475c77f81b8985c87a5c953c3009096f`. My earlier remarks about the duplicated record, duplicated `IMAGE_37` index, and `IMAGE_40` mismatch no longer apply to this revision.
