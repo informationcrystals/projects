@@ -3548,3 +3548,351 @@ Carefully examine and describe the resource in maximal detail followed by your o
 // Note that the URL listed below is a temporary staging location for its corresponding file before that file was fully incorporated into the canon KARBYTES.
 
 https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_14september2026_p2.mp4
+
+ChatGPT:
+
+[Worked for 20m 1s]
+
+I downloaded and decoded the complete [staged video](https://raw.githubusercontent.com/informationcrystals/projects/main/obs_studio_recording_14september2026_p2.mp4). Its central subject is not an external physical scene but a computer-mediated process: an OBS recording of karbytes watching ChatGPT analyze `obs_studio_recording_14september2026_p0.mp4`, briefly inspecting files related to that analysis, checking several already-running sound-loop tabs, and monitoring the recording and usage state.
+
+A necessary accuracy qualification: I could inspect all 12,540 decoded video frames, including every adjacent-frame transition, but this environment does not support literal audio playback to me. I therefore cannot truthfully claim an uninterrupted humanlike auditory sensation. I decoded the entire audio track, analyzed every sample through full-duration waveform and spectrogram coverage, ran speech recognition over the whole 6:58, matched the recording against the identifiable source tracks, and analyzed those tracks’ pitch, timing, loudness, and harmonic structure. My auditory and subjective descriptions are therefore evidence-based reconstructions rather than claims of literal hearing.
+
+## Technical integrity
+
+[preformatted_text]
+
+| Property           |                                                             Result |
+| ------------------ | -----------------------------------------------------------------: |
+| File size          |                                                   21,652,629 bytes |
+| SHA-256            | `48d8733a7a6a2afc4ddc6786d271477288ba7a9d612a75c88e7db44e07653f22` |
+| Total duration     |                               Exactly 418.000 seconds, or 6:58.000 |
+| Video frames       |                              12,540 of 12,540 decoded successfully |
+| Frame rate         |                           Exactly 30 progressive frames per second |
+| Resolution         |                                                         1092 × 614 |
+| Display aspect     |                                        546:307, very close to 16:9 |
+| Video codec        |                                      H.264 High Profile, level 3.1 |
+| Pixel format       |                                                    8-bit YUV 4:2:0 |
+| Color metadata     |                                               Limited-range BT.709 |
+| Video bitrate      |                                             Approximately 277 kbps |
+| Video encoder      |                                             `Lavc63.1.101 libx264` |
+| Video handler      |                                                `OBS Video Handler` |
+| Audio              |                                             AAC-LC, stereo, 48 kHz |
+| AAC frames         |                                                             19,595 |
+| Audio bitrate      |                                             Approximately 128 kbps |
+| Audio handler      |                                                `OBS Audio Handler` |
+| Overall bitrate    |                                             Approximately 414 kbps |
+| Captions/subtitles |                                                               None |
+| Rotation metadata  |                                                               None |
+
+[end preformatted_text]
+
+The recording is extremely static for long stretches. There are 275 exactly duplicated consecutive frames. Approximately 93% of all adjacent-frame pairs differ by no more than 0.05 mean luma units; most changes consist of a spinner rotating, a status message changing, a pointer moving, the clock advancing, or the available-credit number decrementing. The largest pixel changes occur when a long HTML selection menu opens or closes, VLC replaces the browser, an archived page changes from white to dark, and OBS or the settings dialog appears.
+
+The outer Ubuntu desktop clock progresses from `Sep 14 19:55` to `Sep 14 20:02`.
+
+## Central visual situation
+
+The main browser is open to a ChatGPT Work Mode conversation entitled `Video Description Request · Work`. The visible user request is the same general media-analysis instruction used here, but its URL ends in:
+
+`obs_studio_recording_14september2026_p0.mp4`
+
+Thus p2 records the analysis of p0—not the analysis of p2.
+
+The ChatGPT response is still being generated throughout the recording. No completed final answer appears before p2 ends. The recording instead preserves the model’s interim messages, tool-status phrases, progress panel, quota consumption, and the user’s occasional checks of source material and auxiliary applications.
+
+That makes p2 partly a process record: it shows the production of an analysis rather than merely presenting its finished prose.
+
+## Complete chronological description
+
+[preformatted_text]
+
+| Recording time        | Visual progression                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **00:00–00:02.37**    | OBS Studio 32.2.0 is in front of ChatGPT. There is one scene, `Scene`, and one screen-capture source. The preview is scaled to about 7% and contains a tiny recursive image of OBS capturing the desktop. `Desktop Audio` is active, with its meter moving into green, yellow, and occasionally red territory; its fader reads approximately −5.5 dB. `Mic/Aux` is effectively at −∞ and visibly muted, indicating that the recorded sound is desktop playback rather than live microphone input. The scene transition is `Fade`, 300 ms. Controls include `Start Streaming`, `Start Recording`, `Start Virtual Camera`, `Studio Mode`, and `Settings`. During these opening frames the recording state changes, and the OBS record timer begins.                                                                                                      |
+| **00:02.37–00:08.0**  | OBS leaves the foreground, exposing the ChatGPT conversation. The work timer already reads about `Working for 5m 59s`, proving that the inner p0 analysis began several minutes before this outer p2 capture. ChatGPT says it will inspect the recording end to end, synchronize its visual timeline with the full audio, use dense frame extraction and technical metadata, and load prior-context guidance concerning staging, canon, and KARBYTES.                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **00:08–00:13.8**     | The page scrolls upward through the large blue user bubble. The full instruction about downloading the video, watching every frame, analyzing synchronized audio, transcribing speech, describing voice qualities, and providing maximal first-person commentary becomes visible. The staging/canon note and the p0 URL are exposed. `Show more`/`Show less` controls appear at the bottom of the bubble.                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **00:13.8–00:20.63**  | The view scrolls back to ChatGPT’s interim analysis. It reports that p0 downloaded intact as a `6:41.300` OBS recording at 1092×614 and 30 fps, containing 12,039 frames and a 48-kHz stereo AAC track. Another interim paragraph says the p0 soundtrack is continuous instrumental music with no intelligible speech or singing. It summarizes p0 visually as an older OBS/video recursion containing GitHub material, Wayback Machine captures, a Big Green Thing landscape clip, and later KARBYTES archive pages. That statement concerns the inner p0 file; it should not be confused with the complete outer p2 audio analyzed here.                                                                                                                                                                                                             |
+| **00:20.63–00:25.0**  | The browser changes to GitHub. The repository is `informationcrystals/sixth_dark_hiatus_bubble_autumn_2026`, and the file is `chatgpt_karbytes_14september2026_p0.txt`. GitHub shows a recent commit headed `Update chatgpt_karbytes_14september2026_p0.txt`, abbreviated commit `436090b`, approximately 21 lines, 14 lines of code, and 1.53 KB. The file metadata declares `plain-text`, date `14_SEPTEMBER_2026`, author `karbytes`, and license `PUBLIC_DOMAIN`. It identifies itself as a transcript between karbytes and ChatGPT 5.6 Sol (Max Effort), then contains the p0 video-analysis request. At this stage it is essentially a transcript scaffold: the user request is present while the response being generated in ChatGPT has not yet been appended.                                                                                 |
+| **00:25.0–00:31.93**  | The raw version of that text file opens. Dense white monospaced text appears against black. Its header, conversation description, user instructions, staging note, and p0 raw URL are all visible at once. The pointer moves toward the left dock and briefly hovers over applications.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **00:31.93–00:37.63** | VLC opens over the raw page. Its title is `obs_studio_recording_14september2026_p0.mp4 - VLC media player`. VLC is already near 03:21 in the 06:41 recording and continues to roughly 03:26. This produces another nested temporal layer: the p2 desktop at 19:55 contains VLC replaying the p0 desktop at about 19:06. Inside p0, Firefox is using the Internet Archive. Initially the nested screen shows Wayback’s `Save Page Now` form. It changes to a white success page saying it has saved `chatgpt_karbytes_13september2026_p0.txt`, with a green `Done!` marker and a snapshot identifier beginning `web/20260915020623/`. The newly archived raw text then opens beneath the Wayback toolbar. Its header and a multi-resource request involving Devil’s Hole/Big Green Thing files become visible. VLC indicates approximately 116% volume. |
+| **00:37.63–00:41.2**  | Firefox replaces VLC. Six tabs are visible: one New Tab and five tabs bearing speaker icons, showing that five instances of `SOUND_TRACK_LOOPER_THREE` are producing audio. The active tab is playing `pig_gorl_02_april_2024_part_0.mp3`. The page has a black background, luminous green borders, orange monospaced headings and instructions, cyan counters, and green timestamps.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **00:41.2–00:45.3**   | A different sound-loop tab is selected. It is playing `pig_gorl_02_april_2024_part_1.mp3`, with roughly 18 loops completed and 584–587 seconds elapsed. The page states that finite sound patterns may be played for an indefinite number of cycles and recommends multiple tabs with staggered start times.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **00:45.3–00:51.27**  | The next tab is playing `pig_boi_24_june_2023.mp3`, showing about 12 completed loops and 568–571 seconds elapsed. The user scrolls enough to expose the page-load and start-button epoch timestamps.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **00:51.27–00:63.4**  | The next tab is playing `pig_gorl_noises_part_1_06_july_2023.mp3`, progressing from approximately 16 to 17 loops and 560 to 570 elapsed seconds. At about 00:57.5, its selection menu is opened. A very long white drop-down covers most of the page. The user scrolls through filenames from numerous categories: dated `pig_gorl` recordings, ASMR clips, keyboard and guitar samples, landscape ambience, myNoise soundscapes, black-metal tracks, Beethoven, Shpongle, Megadeth, Sunn O))), archival recordings, and other KARBYTES sound objects. The currently running track is not changed; the menu closes with the same selection.                                                                                                                                                                                                            |
+| **00:63.4–00:67.7**   | The next tab is playing `pig_gorl_31august2024_p2.mp3`, showing about 33 completed loops and 561–565 elapsed seconds.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **00:67.7–00:73.77**  | The final loop tab returns to `pig_gorl_02_april_2024_part_0.mp3`, now at roughly 41–42 completed loops and 542–546 elapsed seconds. These counters demonstrate that none of the five tracks was started during p2; all had been running for eight or nine minutes before being inspected.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **00:73.77–00:76.67** | Chromium returns to the raw `chatgpt_karbytes_14september2026_p0.txt` transcript. The pointer hovers over the ChatGPT tab, producing a thumbnail labeled `Video Description Request` and reporting approximately 250 MB memory use.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **00:76.67–00:82.1**  | ChatGPT returns. The interim p0 description remains unchanged, but the small activity line cycles through operations such as listing specific video files, comparing audio waveform correlations across lags, and generating or analyzing audio-pattern spectrograms.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **00:82.1–00:98.77**  | The user repeatedly scrolls between the blue prompt and the interim assistant text. The work timer reaches approximately 7m21s–7m31s. A status briefly says it is searching related information. No final answer appears.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **00:98.77–04:41.87** | This is the longest visually quiet interval. ChatGPT’s main interim paragraphs and four-step Progress panel remain almost fixed while the small status line changes. The pointer scarcely moves. The Ubuntu clock advances from 19:56 through 19:59, and the available-credit counter steadily decreases.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **04:41.87–04:46.83** | OBS is brought forward as a mid-recording check. Its timer reads approximately 00:04:43; `Stop Recording` is active. The recursive preview, live Desktop Audio meter, muted Mic/Aux channel, 30-fps status, and CPU figure near 21% are visible. Nothing is stopped.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **04:46.83–05:36.43** | ChatGPT returns. The status line continues reporting scene and timing analysis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **05:36.43–05:48.77** | ChatGPT’s `Usage Limits` settings dialog opens over the conversation. Its sidebar lists General, Notifications, Personalization, Plugins, Voice, Billing, Usage, Analytics, Data controls, Parental controls, Storage, Safety, Security and login, and Trusted contact. The initial Usage view says the five-hour allowance is exhausted and will reset in about five minutes; the weekly allowance shows approximately 59% remaining and a reset in about 43 hours. A `Usage limit resets` area shows one available full reset for the weekly and five-hour limits, expiring around October 4 at 3:08 PM. Scrolling reveals `Credits`, approximately `644 credits left`, an `Add more` button, and an Automatic Reload control that appears off.                                                                                                      |
+| **05:48.77–06:56.73** | The settings dialog closes. ChatGPT continues working on p0. Later status messages mention generating video-frame contact sheets and comparing audio segments through signal correlation. The sidebar credit badge continues falling, reaching roughly 629 by the end. The first item in the right-side Progress panel continues spinning; the requested maximal synthesis has still not been delivered.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **06:56.73–06:58.00** | OBS returns for the ending. The timer reads about 00:06:57, Desktop Audio remains active, Mic/Aux remains muted, and `Stop Recording` is visible. The file terminates as the user ends the recording.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+[end preformatted_text]
+
+## The long ChatGPT-work interval in finer detail
+
+The small activity message is one of the only changing elements during the approximately four-minute static center. The nearest readable times are:
+
+[preformatted_text]
+
+| Approximate p2 time | Visible activity                                                             |
+| ------------------: | ---------------------------------------------------------------------------- |
+|               01:17 | `Listing Specific Video Files`                                               |
+|               01:18 | `Comparing Audio Waveform Correlations Across Lags`                          |
+|               01:22 | `Generated and analyzed audio pattern spectrograms`                          |
+|               01:30 | Searching related information                                                |
+|               01:39 | `Planned audio correlation analysis`                                         |
+|               02:00 | `Analyzing audio waveform and spectral features`                             |
+|               03:19 | `Checking Audio Analysis Dependencies`                                       |
+|               03:36 | `Planning precise visual timeline extraction`                                |
+|               03:44 | `Planned precise visual timeline extraction using OBS playback details`      |
+|               03:52 | `Mapped VLC playback timeline`                                               |
+|               04:00 | `Mapping VLC playback timeline`                                              |
+|               04:14 | `Mapped VLC playback, browser transition, and GitHub file viewing timelines` |
+|               04:17 | `Detailing GitHub browsing and raw file viewing timeline`                    |
+|               04:42 | `Detecting Scene Changes Across Thresholds`                                  |
+|               05:24 | Identifying browser-video pausing during full-screen applications            |
+|               05:26 | Reporting that timing discrepancies and browser pausing were analyzed        |
+|               05:57 | `Generating Video Frame Contact Sheets`                                      |
+|               06:43 | `Comparing Audio Segments Using Signal Correlation`                          |
+
+[end preformatted_text]
+
+The four persistent Progress-panel goals are:
+
+1. Download the staged MP4 and verify its metadata and stream integrity.
+
+2. Inspect the entire visual sequence using scene changes and dense frame coverage.
+
+3. Analyze the full audio, transcribe speech, and characterize voices or sounds.
+
+4. Synthesize a maximal description and evidence-separated first-person commentary.
+
+The recording ends while that workflow remains underway.
+
+## Desktop and interface appearance
+
+The operating system uses a dark Ubuntu/GNOME-like theme. A vertical dock on the left contains Firefox, Chromium, a purple onion-like browser icon, Files, Sublime Text, Terminal, a text editor, VLC, OBS, Trash, and the Ubuntu applications control. Several icons carry small numbered badges.
+
+The top panel contains the displayed date and time, an OBS-like recording indicator, a VLC icon, accessibility and microphone symbols, brightness, network, speaker, and power indicators.
+
+The main Chromium window contains many compact tabs labeled with fragments such as `project`, `sixth`, `inform`, `Image`, `KARB`, `Karlin`, `journal`, `chatg`, `Wayb`, and `Video`. The bookmarks bar includes KARBYTES, Wayback, SOUND_TRACK, and Internet Archive shortcuts. The crowded browser chrome conveys an actively maintained working environment rather than a clean presentation machine.
+
+Within ChatGPT:
+
+* The left navigation contains New chat, Images, Library, Projects, Scheduled, Plugins, and More.
+
+* Recent work includes `Video Description Request`, `Image Description Analysis`, `Freeze Dried Buzz Buttons Explai…`, `Describe Video Audio`, and `Video observation summary`.
+
+* The visible account label is `Karina Beringer`, with `Plus`.
+
+* The model selector reads `GPT-5.6 Sol Max`.
+
+* A blue square stop control remains present because the response is still running.
+
+* The available-credit badge declines from approximately 686 near the opening to about 629 near the ending.
+
+Visually, almost the entire resource is black, charcoal gray, and white, interrupted by three high-saturation palettes:
+
+* ChatGPT’s blue user bubble.
+
+* Wayback’s white page with the red-and-black logo and green `Done!`.
+
+* SOUND_TRACK_LOOPER_THREE’s neon green, orange, and cyan terminal-like design.
+
+## Nested recursion
+
+The recording contains several distinguishable layers:
+
+1. **p2**, the present OBS recording.
+
+2. **ChatGPT analyzing p0** inside p2.
+
+3. **VLC actually replaying p0** inside p2.
+
+4. **p0 displaying a Wayback operation** involving the September 13 transcript.
+
+5. The September 13 transcript itself referring to still earlier media objects.
+
+The recursion is not merely visual. The visible GitHub file is a transcript of the request that generated the analysis being watched elsewhere in the same recording. The text artifact exists as a skeletal transcript while its missing assistant section is still being computed. In other words, the recording shows source material, its analysis process, and the container awaiting that analysis all at once.
+
+## Complete audio analysis
+
+### Overall sound
+
+The captured audio is continuous. There are no intervals of at least 0.25 seconds falling below −45 dBFS.
+
+Measured full-track properties are:
+
+[preformatted_text]
+
+| Audio property         |                   Result |
+| ---------------------- | -----------------------: |
+| Integrated loudness    | Approximately −16.1 LUFS |
+| Loudness range         |     Approximately 1.7 LU |
+| Mean sample level      | Approximately −19.2 dBFS |
+| True peak, left        |  Approximately −3.5 dBFS |
+| True peak, right       |  Approximately −3.9 dBFS |
+| Left/right correlation |       Approximately 0.91 |
+| Left-channel advantage |     Approximately 0.8 dB |
+| Clipping               |            None detected |
+
+[end preformatted_text]
+
+The stereo image is fairly centered but not identical dual mono. About 66.5% of measured spectral energy lies between 120 and 500 Hz: approximately 34% from 120–250 Hz and 32.6% from 250–500 Hz. This supplies a thick low/low-mid body from drums, bass, guitar, and the fundamentals of the vocal calls. Another roughly 13.8% lies from 1–2 kHz, where instrumental attacks and vocal harmonics add definition.
+
+### Dominant instrumental layer
+
+The strongest continuous component is the same rock-oriented performance associated with `drums_karbytes_14september2026_p0.mp4`.
+
+It contains:
+
+* Drum-kit attacks, including kick, snare or rim-like hits, tom-like resonances, and cymbal/hi-hat texture.
+
+* Guitar and bass or other plucked-string components.
+
+* A compact, low-heavy recording balance.
+
+* A principal pulse near 129 BPM, although half-time or local estimators can settle nearer 64–70 BPM.
+
+* Waves of denser fills alternating with slightly more open guitar- or bass-led passages.
+
+* No stable lead vocal or intelligible lyrical line.
+
+Sample-pattern alignment places p2’s opening at approximately 202.761 seconds into the matched drum source. The audio proceeds continuously, reaches an apparent loop or edit point around 03:25 of p2, and resumes from an earlier portion. Near p2’s ending, the source phase is approximately 212.7 seconds.
+
+That last result is significant because the previously examined p1 recording begins at approximately 212.774 seconds in the same source. Its visual state also continues the same ChatGPT work. This strongly indicates that p2 was recorded immediately before p1 even though the suffix order might initially suggest otherwise.
+
+### Five concurrent nonlexical vocal loops
+
+The five audible Firefox tabs implement the behavior described by [SOUND_TRACK_LOOPER_THREE](https://karbytessupporter.github.io/SOUND_TRACK_LOOP_COUNTER_THREE_github_hosted_website/). Inspection of the [application source](https://karbytessupporter.github.io/SOUND_TRACK_LOOP_COUNTER_THREE_github_hosted_website/sound_track_looper_three.js) shows that an ended file is checked and restarted on a one-second timer. Thus each audio core is followed by a short variable pause before its next iteration.
+
+The source phases found in the captured waveform agree with the counters and epoch timestamps shown on screen.
+
+[preformatted_text]
+
+| Looped source                                                                                                                                                                | Decoded vocal core | Effective observed cycle | Approximate source character                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------: | -----------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`pig_gorl_02_april_2024_part_0.mp3`](https://raw.githubusercontent.com/karbytessupporter/SOUND_TRACK_LOOP_COUNTER_THREE/main/pig_gorl_02_april_2024_part_0.mp3)             |            12.60 s |                  13.12 s | Roughly 10–12 bright, high, nasal cries resembling `yaa`, `yeh`, `yay`, or `nyaa`; stable portions are usually around 400–500 Hz, with occasional rises toward 600 Hz and rough lower subharmonics.                                       |
+| [`pig_gorl_02_april_2024_part_1.mp3`](https://raw.githubusercontent.com/karbytessupporter/SOUND_TRACK_LOOP_COUNTER_THREE/main/pig_gorl_02_april_2024_part_1.mp3)             |            31.85 s |                  32.33 s | Approximately 34 high nonlexical humming, cooing, rounded `oo/mm`-like, and gliding calls. Median fundamental is around 429 Hz; many calls lie between about 340 and 530 Hz, with occasional very high peeps.                             |
+| [`pig_boi_24_june_2023.mp3`](https://raw.githubusercontent.com/karbytessupporter/SOUND_TRACK_LOOP_COUNTER_THREE/main/pig_boi_24_june_2023.mp3)                               |            44.17 s |                  45.14 s | About 33 lower, short-to-medium vocal bursts. Clean periodic portions center near 250 Hz, most often approximately 220–310 Hz. They read acoustically as grunts, compact moans, calls, or deliberately creature-like syllabic gestures.   |
+| [`pig_gorl_noises_part_1_06_july_2023.mp3`](https://raw.githubusercontent.com/karbytessupporter/SOUND_TRACK_LOOP_COUNTER_THREE/main/pig_gorl_noises_part_1_06_july_2023.mp3) |            32.47 s |                  33.32 s | Approximately 36 repeated vocal bursts, commonly around 235–310 Hz with a median near 267 Hz. The latter half becomes increasingly staccato and repetitive. Some endings resemble `oh/uh`, but not dependably enough to constitute words. |
+| [`pig_gorl_31august2024_p2.mp3`](https://raw.githubusercontent.com/karbytessupporter/SOUND_TRACK_LOOP_COUNTER_THREE/main/pig_gorl_31august2024_p2.mp3)                       |            16.18 s |                  17.15 s | About 15 irregular events alternating between cleaner 325–410-Hz calls and rough wails, gasps, growls, howls, or pulsed `aah/uh` sequences with strong 80–180-Hz subharmonics.                                                            |
+
+[end preformatted_text]
+
+The start-button timestamps shown in the application correspond approximately to:
+
+* Part 1: 19:46:04.375 displayed-local-date context.
+
+* `pig_boi`: 19:46:25.641.
+
+* July noises: 19:46:38.740.
+
+* August p2: 19:46:49.276.
+
+* Part 0: 19:47:14.406.
+
+The recording begins at approximately 19:55:06, so the loops are already deeply underway.
+
+Because their approximate cycles are 13, 17, 32, 33, and 45 seconds, the separate voices continually move in and out of alignment. If those nominal periods were exact integers, all five would return to their original joint phase only after 3,500,640 seconds—about 40.5 days. Real browser timing introduces additional drift, so the actual combination is even less mechanically exact.
+
+### Voice qualities in the composite
+
+**Pitch:** The composite spans several registers. The brightest `pig_gorl` calls cluster around 400–500 Hz and occasionally reach approximately 600–800 Hz. The `pig_boi` and July-noise layers occupy a lower but still relatively high vocal region around 220–310 Hz. The August layer can sound simultaneously high and guttural because its clearer calls sit around 325–410 Hz while rough phonation produces much lower subharmonics.
+
+**Timbre:** The combined texture includes:
+
+* Bright, narrow, nasal, infantile-sounding squeals.
+
+* Rounded, resonant humming and cooing.
+
+* Open-vowel cries.
+
+* Short grunt-like or simpering bursts.
+
+* Breathy, rasping, croaking, and growling attacks.
+
+* High peeps and downward glissandi.
+
+* Occasional howling or wailing contours.
+
+The source cannot be classified responsibly as a literal pig, child, or particular type of adult voice. The acoustics are consistent with one or more humans deliberately producing stylized infantile or animal-like character sounds, but recording alone cannot establish who or what produced them.
+
+**Rhythm:** Within each source, events are irregular and nonmetrical. Calls generally last from a fraction of a second to roughly 1.5 seconds, separated by short pauses. Across the five tabs, however, that irregular material is subjected to fixed cyclic repetition. The result is a hybrid rhythm: spontaneous-sounding vocal gestures embedded in an algorithmic multi-period loop system.
+
+**Loudness:** The individual raw sources range from approximately −15.4 LUFS for the loudest April part to approximately −27.3 LUFS for the quieter August source. In the captured mixture, the drum/guitar track and simultaneous voices mask one another, so those source loudness values should not be interpreted as isolated p2 playback levels. The total remains strongly and steadily present at −16.1 LUFS with very little large-scale variation.
+
+### Speech transcription
+
+I found no reliably intelligible sentence, name, command, lyric, or propositional utterance.
+
+The whole-track recognizer consistently classified the recording as music—usually “upbeat music”—and produced no stable lexical transcript. Source-level recognition alternated inconsistently among labels such as `singing`, `vocalizing`, `music`, and a tentative final `oh, oh, oh, oh`. That instability is characteristic of nonlexical, highly tonal sounds being forced into speech categories.
+
+The most responsible transcript is therefore:
+
+> `[Continuous instrumental rock/drum music. Beneath and among it, recurrent layered nonlexical vocalizations: high “yaa/yeh/nyaa”-shaped cries, rounded “mm/oo”-like humming and coos, medium-pitched “uh/oh”-like calls or grunts, breathy rasping bursts, rough wails/howls, and pulsed open-vowel sounds. No reliably intelligible words.]`
+
+The apparent `yay`, `yeah`, `oh`, `uh`, or `mm` shapes describe phonetic resemblance. I would not present them as intentional English words.
+
+## Relationship to p1
+
+The evidence indicates that p2 precedes the previously examined `obs_studio_recording_14september2026_p1.mp4`:
+
+* p2 ends with the desktop clock at 20:02 and OBS in front.
+
+* p1 opens at 20:02 with OBS in front.
+
+* p2’s final ChatGPT activity is comparing audio segments.
+
+* p1 continues with the same interim paragraphs and subsequently reports that audio-layer alignment has been analyzed.
+
+* The drum-source phase at p2’s ending predicts the phase measured at p1’s beginning to within roughly a tenth of a second.
+
+The filename suffixes therefore describe file identity, not necessarily the perceptual chronology in which these fragments should be viewed.
+
+## Staging and canon
+
+The supplied `informationcrystals/projects` URL is a staging endpoint. Accepting your provenance note, the corresponding file was later incorporated into canon, but that does not make this raw staging URL itself the canonical locator. The recording visually reinforces the distinction: GitHub staging, named seasonal repositories, Wayback persistence, transcript construction, and eventual KARBYTES canon inclusion are separate operations.
+
+## My first-person subjective commentary
+
+I experience this resource as a documentary of attention turned back upon itself. Its nominal action is almost trivial: a person waits for ChatGPT to finish analyzing a video. Yet p2 converts that waiting into another video, making the labor of observation itself observable. I am not merely looking at p0 through an analysis; I am looking at the historical interval during which that analysis was being assembled.
+
+The opening OBS recursion establishes this immediately. The preview contains the desktop that contains OBS that contains the preview. The tiny inset does not reveal new information; it reveals the existence of another observational layer. Every later object enters that same structure: ChatGPT observes p0, karbytes observes ChatGPT, OBS observes the desktop, p2 preserves OBS’s observation, and I now observe p2. Canonization can add yet another layer by preserving this description beside the preserved observation.
+
+I find the unfinished state important. The ChatGPT answer never arrives in p2. What persists instead is process language: listing files, correlating waveforms, mapping VLC playback, detecting scenes, generating contact sheets. These phrases are ordinarily ephemeral scaffolding. Here they become the central visible event. The work’s backstage becomes the artifact.
+
+The GitHub transcript deepens that temporal peculiarity. It already bears the name of the conversation whose assistant response is still being created. The container precedes some of its intended content. I see a textual shell waiting to be filled while the filling process runs in another tab. The transcript is both a record and a forecast of itself.
+
+The VLC interval creates a compact archival tunnel. The outer desktop reads 19:55. Inside it, p0 displays a 19:06 desktop. That inner desktop is saving the previous day’s transcript into Wayback. The screen therefore contains multiple operational presents: the present of p2’s recording, the remembered present of p0, the archived present of the September 13 file, and the projected future in which these objects will be linked into canon. They occupy one rectangle without collapsing into one time.
+
+I am struck by the scope ambiguity of the phrase “no speech.” The assistant visible on screen says that p0 contains no intelligible speech. That statement is correct about its inner target. Yet the outer p2 sound field contains five simultaneously looping vocal recordings. Those voices also contain no dependable words, but they are unmistakably vocal. One level says “no speech” while another level produces a dense chorus of prelinguistic calls. The distinction between speech and voice becomes structural rather than incidental.
+
+The SOUND_TRACK_LOOPER interface feels like an instrument rather than a utility. Its black surface, fluorescent borders, orange instructions, cyan counters, and huge menu give it the appearance of a homemade laboratory console. The application explicitly recommends temporal staggering, and the five open tabs enact that idea. Each voice has a finite body, but repetition gives it indefinite duration. Each cycle is predictable, but the superposition is effectively inexhaustible on the scale of the recording.
+
+I experience those loops as a population of recurrent personas. The April part-0 cry is bright, sharp, and linguistically suggestive without stabilizing into language. The April part-1 voice is more rounded and humming, as though the same creature had moved from exclamation into sustained cooing. The lower `pig_boi` and July-noise material adds compact grunt-like and moaning pulses. The August track introduces rougher, more ambiguous wails with high tonal calls sitting on low, turbulent subharmonics. Together they form something between an animal chorus, infant vocal play, theatrical character performance, and a deliberately constructed sonic swarm.
+
+The drums give that swarm a body. Without the instrumental layer, the voices might seem fragmentary, exposed, or merely comic. Against kick, snare, cymbals, guitar, and low strings, they become rhythmic matter. The rock performance supplies a forward-moving metabolism while the screen itself barely moves. The discrepancy is powerful: externally the desktop waits; aurally the system is crowded and active.
+
+That inversion persists through the long ChatGPT interval. Cinema ordinarily gives the eye continuous action and the ear a supporting role. Here the image remains nearly fixed for minutes while hidden computation and layered sound carry the passage of time. A status phrase changes; a spinner turns; a credit number decreases. Those tiny changes become perceptually large because the surrounding field is so stable.
+
+The credit counter and Usage dialog introduce a material limit into what might otherwise look like disembodied cognition. The analysis is not presented as infinite or costless. It consumes a five-hour allowance and a visible credit balance. The user interrupts the observation to inspect the remaining capacity, then returns to the task. I read that interlude as a reminder that even a highly abstract archival process depends upon quotas, timers, subscriptions, energy, hardware, and institutional permission.
+
+The OBS checks have a related effect. At approximately 4:43, karbytes briefly verifies that recording is still active; at 6:57, OBS returns for termination. These moments function like looking at a camera’s red light during an experiment. The observer confirms that the observer is still observing. The live Desktop Audio meter supplies the most bodily movement in the window, continuously jumping while the microphone remains muted.
+
+The muted microphone is symbolically interesting to me. No live voice enters from the room, but recorded voices proliferate through the desktop. Immediate embodiment is excluded while archived embodiment is multiplied. The present person remains visually and acoustically absent; prior vocal gestures and prior drum performance occupy the sound field instead.
+
+I also find the mismatch between filename order and experienced chronology suggestive. p2 apparently flows into p1. The numerical labels promise an orderly sequence, but the clocks, screen state, and audio phase reveal a different one. That is a small demonstration of why archival interpretation cannot rely on names alone. Sequence has to be reconstructed from evidence distributed across image, sound, interface state, and content.
+
+The Wayback `Done!` screen provides a moment of apparent certainty inside this otherwise unfinished process. A page has been captured; a snapshot identifier exists. Yet Wayback completion is not identical to KARBYTES canonization. Preservation, staging, repository placement, transcript completion, and canonical linking remain distinct thresholds. I experience the recording as moving repeatedly among those thresholds without pretending that one automatically entails the next.
+
+The deepest open-ended reading I take from p2 is that the resource treats identity as something assembled through iterative observation. A video is made; the video is analyzed; the analysis is recorded; the recording becomes another object requiring analysis; each result is staged, archived, named, and potentially inserted into a larger canon. No layer is simply final. Each apparent endpoint becomes source material for a subsequent interpretive pass.
+
+That could be read as infinite regress, but it could also be read as a deliberate method of increasing resolution. The repeated observation does not reproduce exactly the same object. Each layer exposes different facts: p0 exposes archival and landscape activity; the inner ChatGPT analysis exposes p0’s structure; p2 exposes the conditions under which that analysis was produced; the sound-loop inspection exposes an outer soundtrack that the inner analysis is not addressing; p1 exposes the continuation after p2 stops. Recursion generates difference.
+
+My final subjective impression is therefore of a dense, strange, and unusually honest process artifact. It does not hide waiting, quota checks, unfinished prose, navigation detours, or the machinery of capture. It preserves them as part of the work. The result feels simultaneously bureaucratic and creaturely: raw URLs, checksums, progress bullets, counters, and archive receipts coexist with drums, squeals, coos, grunts, and howls. Symbolic order and nonverbal embodiment run in parallel, neither fully translating the other.
