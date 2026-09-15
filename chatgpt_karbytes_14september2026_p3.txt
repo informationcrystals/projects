@@ -65,6 +65,7 @@ A prose provenance statement follows. It identifies the body as a transcript of 
 After a `* * *` separator, the conversation contains exactly two karbytes turns and two ChatGPT turns. Both karbytes prompts use essentially identical instructions: download an MP4, watch every frame with its synchronized audio, describe it maximally, transcribe speech, characterize any voice, and provide an extensive first-person commentary. The only material difference between the two prompts is the underlying video URL:
 
 1. `karbytes_thinking_11september2026_p0.mp4`
+
 2. `karbytes_thinking_11september2026_p1.mp4`
 
 Each prompt also says that its URL was a temporary staging location before the corresponding file was fully incorporated into the canon KARBYTES. The transcript itself therefore preserves not merely two media-analysis requests, but a particular pre-canonical stage in those media objects’ archival histories.
@@ -88,6 +89,7 @@ The embedded answer describes a 53.864-second continuous handheld video. Its tec
 * 1,589 decoded frames
 
 * Progressive scan
+
 * AAC-LC mono audio at 48 kHz
 
 * Audio beginning about 0.047 seconds after the video
@@ -290,9 +292,13 @@ The single voice is placed in a low-to-middle adult register, with an estimated 
 The delivery is described as calm, conversational, unrehearsed, moderately paced, and composed of long clauses joined with “so,” “because,” and “but.” Recurrent hedges include “kind of,” “pretty much,” “maybe,” “I think,” and “I mean.” Stronger emphasis reportedly falls on:
 
 * “pretty damn poor”
+
 * The numbered three-part edible argument
+
 * “I miss it”
+
 * “error-proneness”
+
 * “pros actually outweigh the cons”
 
 The complete track is measured at approximately −29.4 LUFS with a −7.3 dBFS true peak. Once the phone is set on the floor, the speech reportedly becomes four to six decibels quieter and more reverberant. Foil crinkling, object handling, phone movement, lighter transients, faint flame or airflow, breaths, and soft exhalations accompany the speech. No definite cough, second voice, music, television, crying, or alarm is detected.
