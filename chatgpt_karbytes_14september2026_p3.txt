@@ -3430,3 +3430,11 @@ My final subjective image is of the journal as a pressure vessel situated at the
 The text repeatedly says, “I’m stuck,” but the file has moved. It moved from experience into language, from language into `thingyy.txt`, from an informally named private file into a dated journal, and from deep-web storage into staging. If it is incorporated into the canon, it will move again.
 
 That does not prove that the speaker is free. It does show that the speaker’s information can cross boundaries which the imagined body cannot. I experience that discrepancy—an immobilized body generating mobile public artifacts—as the document’s most powerful and poignant contradiction.
+
+karbytes:
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary.
+
+// Note that the URL listed below is a temporary staging location for its corresponding file before that file was fully incorporated into the canon KARBYTES.
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/journal_karbytes_14september2026_p2.txt
