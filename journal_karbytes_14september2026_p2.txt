@@ -136,15 +136,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16
 
 * * *
 
-IMAGE_15: chatgpt_generated_image_karbytes_as_cosmos_25may2026.png
-
-image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_65/main/chatgpt_generated_image_karbytes_as_cosmos_25may2026.png
-
-relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16august2026_b/
-
-* * *
-
-IMAGE_16: charizard_gets_its_head_stuck_in_a_pipe_p2.jpg
+IMAGE_15: charizard_gets_its_head_stuck_in_a_pipe_p2.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/charizard_gets_its_head_stuck_in_a_pipe_p2.jpg
 
@@ -152,7 +144,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17
 
 * * *
 
-IMAGE_17: charizard_gets_its_head_stuck_in_a_pipe_p1.jpg
+IMAGE_16: charizard_gets_its_head_stuck_in_a_pipe_p1.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/charizard_gets_its_head_stuck_in_a_pipe_p1.jpg
 
@@ -160,7 +152,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17
 
 * * *
 
-IMAGE_18: charizard_gets_its_head_stuck_in_a_pipe_p0.jpg
+IMAGE_17: charizard_gets_its_head_stuck_in_a_pipe_p0.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/charizard_gets_its_head_stuck_in_a_pipe_p0.jpg
 
@@ -168,7 +160,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17
 
 * * *
 
-IMAGE_19: the_big_green_thing_22july2026_p0_[inverted].jpg
+IMAGE_18: the_big_green_thing_22july2026_p0_[inverted].jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/the_big_green_thing_22july2026_p0_[inverted].jpg
 
@@ -176,7 +168,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14
 
 * * *
 
-IMAGE_20: chatgpt_generated_image_first_official_long_hiatus_of_karbytes_summer_2026_08june2026.png
+IMAGE_19: chatgpt_generated_image_first_official_long_hiatus_of_karbytes_summer_2026_08june2026.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_66/main/chatgpt_generated_image_first_official_long_hiatus_of_karbytes_summer_2026_08june2026.png
 
@@ -184,7 +176,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14
 
 * * *
 
-IMAGE_21: the_big_green_thing_30july2026_p21.jpg
+IMAGE_20: the_big_green_thing_30july2026_p21.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_30july2026_p21.jpg
 
@@ -192,7 +184,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_15
 
 * * *
 
-IMAGE_22: the_big_green_thing_02august2026_p5.jpg
+IMAGE_21: the_big_green_thing_02august2026_p5.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_02august2026_p5.jpg
 
@@ -200,7 +192,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_15
 
 * * *
 
-IMAGE_23: blackened_karbytes_in_the_big_green_thing_in_karbytes_little_dark_web_server_06july2026.png
+IMAGE_22: blackened_karbytes_in_the_big_green_thing_in_karbytes_little_dark_web_server_06july2026.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/blackened_karbytes_in_the_big_green_thing_in_karbytes_little_dark_web_server_06july2026.png
 
@@ -208,7 +200,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_15
 
 * * *
 
-IMAGE_24: ramage_peak_trail_19june2026_p24.jpg
+IMAGE_23: ramage_peak_trail_19june2026_p24.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_68/main/ramage_peak_trail_19june2026_p24.jpg
 
@@ -216,7 +208,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_15
 
 * * *
 
-IMAGE_25: chatgpt_generated_image_recursive_generative_void_cube_04july2025.png
+IMAGE_24: chatgpt_generated_image_recursive_generative_void_cube_04july2025.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/chatgpt_generated_image_recursive_generative_void_cube_04july2025.png
 
@@ -224,7 +216,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_14
 
 * * *
 
-IMAGE_26: the_big_green_thing_11august2026_video_screenshot_p0.png
+IMAGE_25: the_big_green_thing_11august2026_video_screenshot_p0.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/the_big_green_thing_11august2026_video_screenshot_p0.png
 
@@ -232,7 +224,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13
 
 * * *
 
-IMAGE_27: the_big_green_thing_30july2026_p13.jpg
+IMAGE_26: the_big_green_thing_30july2026_p13.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_30july2026_p13.jpg
 
@@ -240,7 +232,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_13
 
 * * *
 
-IMAGE_28: karbytes_belly_11august2026_p0.jpg
+IMAGE_27: karbytes_belly_11august2026_p0.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/karbytes_belly_11august2026_p0.jpg
 
@@ -248,7 +240,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_i
 
 * * *
 
-IMAGE_29: karbytes_belly_11august2026_p1.jpg
+IMAGE_28: karbytes_belly_11august2026_p1.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/karbytes_belly_11august2026_p1.jpg
 
@@ -256,7 +248,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_i
 
 * * *
 
-IMAGE_30: karbytes_belly_11august2026_p2.jpg
+IMAGE_29: karbytes_belly_11august2026_p2.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_73/main/karbytes_belly_11august2026_p2.jpg
 
@@ -264,7 +256,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_i
 
 * * *
 
-IMAGE_31: karbytes_is_stuck_in_a_cosmic_vase_10july2026.png
+IMAGE_30: karbytes_is_stuck_in_a_cosmic_vase_10july2026.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_70/main/karbytes_is_stuck_in_a_cosmic_vase_10july2026.png
 
@@ -272,7 +264,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_is_stuck_i
 
 * * *
 
-IMAGE_32: chatgpt_generated_image_torus_filled_with_neon_static_and_patterns_30july2025.png
+IMAGE_31: chatgpt_generated_image_torus_filled_with_neon_static_and_patterns_30july2025.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_46/main/chatgpt_generated_image_torus_filled_with_neon_static_and_patterns_30july2025.png
 
@@ -280,7 +272,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_09
 
 * * *
 
-IMAGE_33: chatgpt_generated_image_toroidal_lattice_30april2026_p2.png
+IMAGE_32: chatgpt_generated_image_toroidal_lattice_30april2026_p2.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/chatgpt_generated_image_toroidal_lattice_30april2026_p2.png
 
@@ -288,7 +280,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_08
 
 * * *
 
-IMAGE_34: the_big_green_thing_22july2026_p0.jpg
+IMAGE_33: the_big_green_thing_22july2026_p0.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/the_big_green_thing_22july2026_p0.jpg
 
@@ -296,7 +288,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05
 
 * * *
 
-IMAGE_35: karbytes_is_stuck_collage_image_[abstract_cubes_edition]_03july2026.png
+IMAGE_34: karbytes_is_stuck_collage_image_[abstract_cubes_edition]_03july2026.png
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_69/main/karbytes_is_stuck_collage_image_[abstract_cubes_edition]_03july2026.png
 
@@ -304,7 +296,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_05
 
 * * *
 
-IMAGE_36: the_big_green_thing_02august2026_p4.jpg
+IMAGE_35: the_big_green_thing_02august2026_p4.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_72/main/the_big_green_thing_02august2026_p4.jpg
 
@@ -312,7 +304,7 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_02
 
 * * *
 
-IMAGE_37: burrow_view_from_karbytes_time_capsule_burial_site_26july2026.jpg
+IMAGE_36: burrow_view_from_karbytes_time_capsule_burial_site_26july2026.jpg
 
 image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_71/main/burrow_view_from_karbytes_time_capsule_burial_site_26july2026.jpg
 
