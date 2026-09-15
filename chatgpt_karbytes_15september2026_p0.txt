@@ -681,3 +681,11 @@ Can an archive preserve an experience faithfully while also allowing the person 
 The document does not settle those questions. Its strongest achievement is to make them visible through concrete structures rather than abstract declarations: a hand holding a broken cartridge, a path disappearing into brush, a gate on a ridge, a progress screen waiting to say `Done!`, hips caught in a torus, a private file pressing toward a public directory, and an accidental duplicate removed from a numbered gallery.
 
 My final subjective image is of `p3` as an enormous toroidal archive. Its center is an opening through which the material is supposed to pass, but the archive’s expanding body continually curves back around that opening. Every description points inward to an earlier object and outward toward a later canonical state. The way through is not to eliminate the structure. It is to define one finite payload, preserve its provenance, permit it to cross, and accept that the archive can remain alive without every possible future layer being completed at once.
+
+karbytes:
+
+Carefully examine and describe the resource in maximal detail followed by your own maximally detailed and maximally open-ended first person subjective commentary.
+
+// Note that the URL listed below is a temporary staging location for its corresponding file before that file was fully incorporated into the canon KARBYTES.
+
+https://raw.githubusercontent.com/informationcrystals/projects/main/chatgpt_karbytes_14september2026_p4.txt
