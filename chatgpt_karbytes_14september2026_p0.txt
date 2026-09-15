@@ -96,6 +96,7 @@ Around 00:18–00:26, the innermost recording moves through KARLINA Object mater
 Around 00:26, the nested browser loads material associated with:
 
 * `karlinaobject.wordpress.com/bits_and_bytes/`
+
 * `BITS_AND_BYTES/binary_to_decimal.html`
 
 There is a brief dark or blank loading phase.
